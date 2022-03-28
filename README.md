@@ -2,7 +2,6 @@
 Auto-FB-Brute is a advanced facebook weak password cracker created by mrp1r4t3.
 ##
 <img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square" alt="made with python">
-#
 ## Screenshots
 v.1
 <img src="https://github.com/Mrp1r4t3/Auto-FB-Brute/blob/main/Screenshots/Screenshot%20from%202022-03-29%2004-18-24.png" width="50%" height="50%">
