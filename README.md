@@ -1,5 +1,6 @@
 # Auto-FB-Brute
 Auto-FB-Brute is a advanced facebook weak password cracker created by mrp1r4t3.
+##
 <img src="https://img.shields.io/badge/made%20with-python-blue.svg?style=flat-square" alt="made with python">
 ## Screenshots
 v.1
@@ -12,6 +13,10 @@ v.2
 ubuntu
 kali-linux
 termux
+## Future Updates
+1. `Username based <`
+2. `Additional words and numbers <`
+3. `Auto Bio changer :)`
 
 ## Termux Installation
 1. `pkg install git -y`
