@@ -13,23 +13,29 @@ ubuntu
 kali-linux
 termux
 ## Future Updates
-1. `Username based <`
-2. `Additional words and numbers <`
+1. `Username based`
+2. `Additional words and numbers`
 3. `Auto Bio changer :)`
 
 ## Termux Installation
 1. `pkg install git -y`
 2. `pkg install python3 -y`
-3. `git clone https://github.com/Mrp1r4t3/Auto-FB-Brute`
-4. `cd Auto-FB-Bruter`
-5. `python3 afbb.py`
+3. `pip3 install requests`
+4. `pip3 install bs4`
+5. `pip3 install lxml`
+6. `git clone https://github.com/Mrp1r4t3/Auto-FB-Brute`
+7. `cd Auto-FB-Bruter`
+8. `python3 afbb.py`
 
 ## Kali & Ubuntu Installation
 1. `sudo apt install git -y`
 2. `sudo apt install python3 -y`
-3. `git clone https://github.com/Mrp1r4t3/Auto-FB-Brute`
-4. `cd Auto-FB-Bruter`
-5. `python3 afbb.py`
+3. `pip3 install requests`
+4. `pip3 install bs4`
+5. `pip3 install lxml`
+6. `git clone https://github.com/Mrp1r4t3/Auto-FB-Brute`
+7. `cd Auto-FB-Bruter`
+8. `python3 afbb.py`
 
 ## WARNING!! THIS TOOL/SCRIPT IS USED FOR LEGAL PURPOSES ONLY
 ## Facebook Group
