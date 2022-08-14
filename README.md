@@ -15,7 +15,6 @@ termux
 ## Future Updates
 1. `Username based`
 2. `Additional words and numbers`
-3. `Auto Bio changer :)`
 
 ## Termux Installation
 1. `pkg install git -y`
